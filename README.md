@@ -10,3 +10,7 @@ Intro Python lessons I am developing.
 
 1. [Hello World](Hello_World.ipynb)
 1. [Input and Variables](Input_and_Variables.ipynb)
+
+## Other Resources
+
+- [Python Visualizer](https://cscircles.cemc.uwaterloo.ca/visualize)
