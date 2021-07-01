@@ -10,7 +10,9 @@ Intro Python lessons I am developing.
 
 1. [Hello World](Hello_World.ipynb)
 1. [Input and Variables](Input_and_Variables.ipynb)
+1. [Printing Multiple Items](Printing_Multiple_Items.ipynb)
+1. [Live Demo Notebook](Live_Demo_Notebook.ipynb)
 
 ## Other Resources
 
-- [Python Visualizer](https://cscircles.cemc.uwaterloo.ca/visualize)
+- [Python Visualizer](http://pythontutor.com/visualize.html)
