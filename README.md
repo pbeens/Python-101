@@ -1,6 +1,6 @@
 # Python-101
 
-Intro Python lessons I am developing.
+Intro Python lessons I am using for some one-on-one lessons with a CyberSeniors client.
 
 ## Slides
 
